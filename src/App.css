@@ -1,0 +1,19 @@
+.slider{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.im{
+    width:40rem;
+    aspect-ratio: 3/3;
+}
+.left,
+.Right{
+padding: 1rem;
+margin-inline: 2rem;
+font-size: 2rem;
+background-color: rgb(0, 0, 0);
+border-radius: 50%;
+color: white;
+
+}
